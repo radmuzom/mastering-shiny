@@ -1,9 +1,5 @@
-# Suppose your friend wants to design an app that allows the user to set a
-# number (x) between 1 and 50, and displays the result of multiplying this
-# number by 5. This is their first attempt:
-
-# But unfortunately it has an error:
-# Can you help them find and correct the error?  
+# Extend the app from the previous exercise to allow the user to set the value
+# of the multiplier, y, so that the app yields the value of x * y
 
 library(shiny)
 
