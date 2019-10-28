@@ -5,6 +5,8 @@
 
 # Answer: Given x and y, the app prints x * y, x * y + 5 and x * y + 10.
 
+library(shiny)
+
 # UI
 ui <- fluidPage(
   sliderInput("x", "If x is", min = 1, max = 50, value = 30),
