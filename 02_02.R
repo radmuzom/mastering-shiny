@@ -3,7 +3,7 @@
 # number by 5. This is their first attempt:
   
 # But unfortunately it has an error:
-# Can you help them find and correct the error?  
+# Can you help them find and correct the error?
 
 library(shiny)
 
