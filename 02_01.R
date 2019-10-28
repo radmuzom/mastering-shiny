@@ -1,4 +1,4 @@
-# Create an app that greets the user by name.
+# Create an app that greets the user by name
 
 library(shiny)
 
