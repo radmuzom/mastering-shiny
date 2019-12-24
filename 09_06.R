@@ -17,6 +17,7 @@ make_ui <- function(x, var) {
   }
 }
 
+
 filter_var <- function(x, val) {
   if (is.numeric(x)) {
     !is.na(x) & x >= val[1] & x <= val[2]
